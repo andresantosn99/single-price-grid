@@ -21,4 +21,4 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 - 
 ### Screenshot
 - 
-- [Captura de Tela 2022-05-17 às 15 09 09](https://user-images.githubusercontent.com/105140661/168881047-e6184375-a82c-407f-833f-aa44121ec6af.png)
+![Captura de Tela 2022-05-17 às 15 11 10](https://user-images.githubusercontent.com/105140661/168881360-d66f5d12-88a6-42fd-a689-e3c84614dbe5.png)
